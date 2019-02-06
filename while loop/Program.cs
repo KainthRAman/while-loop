@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace while_loop
 {
-   
-           namespace peanut
+
+    namespace peanut
     {
         class raman
         {
@@ -95,7 +95,10 @@ namespace while_loop
                     Console.WriteLine(current.DogName);
                     current = current.nextDog;
                 }
-            
+            }
+        }
+    }
+}    
           
         
     
